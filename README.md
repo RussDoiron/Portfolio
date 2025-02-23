@@ -8,18 +8,17 @@ process improvements and training programs that drive efficiency and enhance tea
 inventory management experience, and 3 years of leadership between VP of Education volunteer role and Patient Services Float 
 Coordinator position. 
 
+### Projects
+[Coffee Sales Dashboard – Data Consolidation & Visualization](https://1drv.ms/x/c/090a304107d261e3/Eer4dTi4sCJBic3wnGwjDAMB0th1KCpoyPYVMVyuic8R5w?e=KXSxbg)
+Consolidated and cleaned data from three separate sheets into one, ensuring accuracy in formatting dates, sizes, and currency. Applied advanced Excel functions like XLOOKUP, INDEX MATCH, and Nested IFs for seamless data retrieval and analysis. Built an interactive pivot table-powered dashboard with slicers and a timeline, allowing dynamic filtering of coffee sales data. Designed intuitive pivot charts to visualize key sales metrics, including total sales trends, sales by country, and top five customers. Optimized the dashboard for both functionality and visual appeal, refining layout, colors, and usability for a seamless user experience.
+
+Skills utilized: XLOOKUP, INDEX MATCH, Nested IFs, Pivot Tables, Pivot Charts, Data Cleaning, Dashboard Optimization
+
 ### Areas of Expertise
 Demand Forecasting | Inventory Management | Process Optimization | Data Visualization | Data Analysis | Data Mining |
 Database Management | Predictive Modeling | Business Intelligence | Statistical Analysis | Supply Chain
 
 Technology: Advanced Excel, Power BI, JDA/Blue Yonder, SQL (Python training & certification in progress)
-
-### Projects
-[Coffee Sales Dashboard – Data Consolidation & Visualization](https://1drv.ms/x/c/090a304107d261e3/Eer4dTi4sCJBic3wnGwjDAMB0th1KCpoyPYVMVyuic8R5w?e=KXSxbg)
-
-Consolidated and cleaned data from three separate sheets into one, ensuring accuracy in formatting dates, sizes, and currency. Applied advanced Excel functions like XLOOKUP, INDEX MATCH, and Nested IFs for seamless data retrieval and analysis. Built an interactive pivot table-powered dashboard with slicers and a timeline, allowing dynamic filtering of coffee sales data. Designed intuitive pivot charts to visualize key sales metrics, including total sales trends, sales by country, and top five customers. Optimized the dashboard for both functionality and visual appeal, refining layout, colors, and usability for a seamless user experience.
-
-Skills utilized: XLOOKUP, INDEX MATCH, Nested IFs, Pivot Tables, Pivot Charts, Data Cleaning, Dashboard Optimization
 
 ### Professional Experience
 Demand Planner | Albertsons | Boise, ID (remote) | Jan 2023–Present
