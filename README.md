@@ -11,6 +11,7 @@ Coordinator position.
 ### Areas of Expertise
 Demand Forecasting | Inventory Management | Process Optimization | Data Visualization | Data Analysis | Data Mining |
 Database Management | Predictive Modeling | Business Intelligence | Statistical Analysis | Supply Chain
+
 Technology: Advanced Excel, Power BI, JDA/Blue Yonder, SQL (Python training & certification in progress)
 
 ### Professional Experience
