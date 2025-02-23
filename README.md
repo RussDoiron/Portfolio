@@ -16,6 +16,7 @@ Technology: Advanced Excel, Power BI, JDA/Blue Yonder, SQL (Python training & ce
 
 ### Professional Experience
 Demand Planner | Albertsons | Boise, ID (remote) | Jan 2023–Present
+
 Oversee new product introductions and demand planning processes, analyzing historical data and key causal factors to drive 
 accurate forecasting and business performance. Served as project lead for two divisions in holiday display program, analyzing
 inventory trends, aligning stock levels with sales data, and delivering insights to optimize seasonal strategies. 
@@ -32,11 +33,13 @@ categories, and supporting 96 replenishment planners.
 districts in 16 states, 1,373 stores, and supporting 34 planners and 9 banners.
 
 Patient Services Float Coordinator | The Oregon Clinic – Float Department | Portland, OR | Jan 2022–Jan 2023 
+
 Led team of 7 patient service floats, overseeing training, clinic assignments, and daily staffing coordination while serving as primary 
 point of contact for team support and IT assistance. Provided front office and administrative support across multiple clinics, applying 
 3+ years of experience to ensure operational efficiency in both remote and on-site environments. 
 
 Patient Services Specialist | The Oregon Clinic – ENT West | Portland, OR | Apr 2018–Jan 2022
+
 Provided front office and administrative support for specialty clinic with 14 medical providers, managing patient check-ins, 
 appointment scheduling, insurance verification, and account management while serving as administrative lead for FMLA, OFLA, and 
 disability accommodations. 
@@ -46,6 +49,7 @@ reducing turnover and improving consistency.
 support. Patients received immediate assistance, improving response times and satisfaction.
 
 Hospital Services Coordinator | American Red Cross | Boise, ID/Portland, OR | Feb 2015–Apr 2018
+
 Coordinated blood product distribution and transportation logistics, leveraging specialized data systems to track inventory, maintain 
 regulatory compliance, and ensure timely delivery to hospitals. 
 - Improved efficiency and service delivery by developing and implementing organizational tools to streamline inventory 
