@@ -1,5 +1,5 @@
 # Russell Doiron
-Hillsboro, OR 97123 | 401.316.9750 | russ.doiron@gmail.com | linkedin.com/in/russdoiron
+Hillsboro, OR 97123 | 401-316-9750 | russ.doiron@gmail.com | linkedin.com/in/russdoiron
 
 ### Senior Data Analyst
 Analytical and results-driven professional with extensive experience in demand planning, supply chain management, and data 
